@@ -317,11 +317,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalScore: 0
   scoreText: {fileID: 0}
-  PinkMan: {fileID: 0}
-  VirtualGuy: {fileID: 0}
-  MaskDude: {fileID: 0}
-  NinjaFrog: {fileID: 0}
-  Menu: {fileID: 0}
   gameOver: {fileID: 1276857186}
   lvlName: 
 --- !u!4 &307525320
@@ -3055,11 +3050,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4135101683000960635, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.54
+      value: -6.68
       objectReference: {fileID: 0}
     - target: {fileID: 4135101683000960635, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.09
+      value: -1.18
       objectReference: {fileID: 0}
     - target: {fileID: 4135101683000960635, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
       propertyPath: m_LocalPosition.z
