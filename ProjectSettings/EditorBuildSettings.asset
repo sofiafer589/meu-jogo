@@ -15,6 +15,9 @@ EditorBuildSettings:
     path: Assets/Scenes/medio/medio lvl_1.unity
     guid: c3e9507f9948ad9489a77c903b986af2
   - enabled: 1
+    path: Assets/Scenes/medio/medio lvl_3.unity
+    guid: 72dbc1a955ac83543a8851e30212eae4
+  - enabled: 1
     path: Assets/Scenes/dificil/dificil lvl_1.unity
     guid: e9e226c5c52993544a3e16420f0ad681
   m_configObjects: {}
