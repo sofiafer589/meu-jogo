@@ -335,6 +335,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5924478216552987412, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
+      propertyPath: lvlName
+      value: facil lvl_3
+      objectReference: {fileID: 0}
     - target: {fileID: 5924478216552987414, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -1522,13 +1526,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalScore: 0
   scoreText: {fileID: 0}
-  PinkMan: {fileID: 0}
-  VirtualGuy: {fileID: 0}
-  MaskDude: {fileID: 0}
-  NinjaFrog: {fileID: 0}
-  Menu: {fileID: 0}
   gameOver: {fileID: 1928393093}
-  lvlName: 
+  lvlName: facil lvl_3
 --- !u!4 &1531303560
 Transform:
   m_ObjectHideFlags: 0

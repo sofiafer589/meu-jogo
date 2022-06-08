@@ -784,11 +784,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.98
+      value: 2.34
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.06
+      value: -0.1
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2413,11 +2413,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.3
+      value: 0.03
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.56
+      value: -0.77
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2489,11 +2489,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalScore: 0
   scoreText: {fileID: 0}
-  PinkMan: {fileID: 0}
-  VirtualGuy: {fileID: 0}
-  MaskDude: {fileID: 0}
-  NinjaFrog: {fileID: 0}
-  Menu: {fileID: 0}
   gameOver: {fileID: 1818768279}
   lvlName: 
 --- !u!4 &1179869502
@@ -2642,11 +2637,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.82
+      value: -2.72
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.03
+      value: -0.52
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4396,7 +4391,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5924478216552987412, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: lvlName
-      value: lvl_3
+      value: dificil lvl_1
       objectReference: {fileID: 0}
     - target: {fileID: 5924478216552987625, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: m_RootOrder

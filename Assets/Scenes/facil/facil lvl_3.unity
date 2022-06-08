@@ -318,7 +318,7 @@ MonoBehaviour:
   totalScore: 0
   scoreText: {fileID: 0}
   gameOver: {fileID: 1276857186}
-  lvlName: 
+  lvlName: medio lvl_1
 --- !u!4 &307525320
 Transform:
   m_ObjectHideFlags: 0
@@ -1529,6 +1529,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5924478216552987412, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
+      propertyPath: lvlName
+      value: medio lvl_1
+      objectReference: {fileID: 0}
     - target: {fileID: 5924478216552987414, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: m_Enabled
       value: 1

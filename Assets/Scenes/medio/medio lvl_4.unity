@@ -1146,11 +1146,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.82
+      value: -2.69
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.03
+      value: -0.95
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2761,11 +2761,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   totalScore: 0
   scoreText: {fileID: 0}
-  PinkMan: {fileID: 0}
-  VirtualGuy: {fileID: 0}
-  MaskDude: {fileID: 0}
-  NinjaFrog: {fileID: 0}
-  Menu: {fileID: 0}
   gameOver: {fileID: 646127857}
   lvlName: 
 --- !u!4 &1748230482
@@ -2792,7 +2787,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5924478216552987412, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: lvlName
-      value: lvl_3
+      value: medio lvl_5
       objectReference: {fileID: 0}
     - target: {fileID: 5924478216552987625, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: m_RootOrder
@@ -4304,11 +4299,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.3
+      value: -0.14
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.56
+      value: -0.54
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.z
