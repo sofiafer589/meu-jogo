@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/main.unity
+    guid: c8132043b9a147046b80f9eebfe0a48d
+  - enabled: 1
     path: Assets/Scenes/facil/facil lvl_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
@@ -17,9 +20,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/medio/medio lvl_1.unity
     guid: c3e9507f9948ad9489a77c903b986af2
-  - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_2.unity
-    guid: 511c3777f1a41074b816774bf2795df2
   - enabled: 1
     path: Assets/Scenes/medio/medio lvl_3.unity
     guid: 72dbc1a955ac83543a8851e30212eae4
