@@ -9,54 +9,54 @@ EditorBuildSettings:
     path: Assets/Scenes/main.unity
     guid: c8132043b9a147046b80f9eebfe0a48d
   - enabled: 1
-    path: Assets/Scenes/facil/facil lvl_1.unity
+    path: Assets/Scenes/facil lvl_1.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/facil/facil lvl_2.unity
+    path: Assets/Scenes/facil lvl_2.unity
     guid: df92f0d97de2f16469b5046a002c8c35
   - enabled: 1
-    path: Assets/Scenes/facil/facil lvl_3.unity
+    path: Assets/Scenes/facil lvl_3.unity
     guid: 066a6a5d16e80f54c88c97eb2b1a7e37
   - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_1.unity
+    path: Assets/Scenes/medio lvl_1.unity
     guid: c3e9507f9948ad9489a77c903b986af2
   - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_3.unity
+    path: Assets/Scenes/medio lvl_3.unity
     guid: 72dbc1a955ac83543a8851e30212eae4
   - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_4.unity
+    path: Assets/Scenes/medio lvl_4.unity
     guid: 9588726fea41c28408a94008f66c86b0
   - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_5.unity
+    path: Assets/Scenes/medio lvl_5.unity
     guid: 32a95fa7b565ec540ae0248b75cbce23
   - enabled: 1
-    path: Assets/Scenes/medio/medio lvl_6.unity
+    path: Assets/Scenes/medio lvl_6.unity
     guid: 6538a65cb3053bb499b32cdd6e50c461
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_1.unity
+    path: Assets/Scenes/dificil lvl_1.unity
     guid: 59c0548666875fb4695b6ff1f4f0b4ca
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_2.unity
+    path: Assets/Scenes/dificil lvl_2.unity
     guid: 8560981555ff6f649b2a798aa3344d74
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_3.unity
+    path: Assets/Scenes/dificil lvl_3.unity
     guid: 2eae3dc4f592a1b49ada45819fa295e4
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_4.unity
+    path: Assets/Scenes/dificil lvl_4.unity
     guid: 66c63a234a7ffbd45b90360ea8392e24
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_5.unity
+    path: Assets/Scenes/dificil lvl_5.unity
     guid: 63bf6393e15ec824e948d19a2f4a103a
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_6.unity
+    path: Assets/Scenes/dificil lvl_6.unity
     guid: c0d321c6c2007eb499fbe7410e446bdc
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_7.unity
+    path: Assets/Scenes/dificil lvl_7.unity
     guid: 4b14ac9947e270641a1876c89cf62ece
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_8.unity
+    path: Assets/Scenes/dificil lvl_8.unity
     guid: 3f5021f49d86ce24ea0b010f98a7f6f8
   - enabled: 1
-    path: Assets/Scenes/dificil/dificil lvl_9.unity
+    path: Assets/Scenes/dificil lvl_9.unity
     guid: f1b529dc6ad861746b2d66e59d6dbc68
   m_configObjects: {}
