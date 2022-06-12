@@ -38,7 +38,7 @@ public class GameController : MonoBehaviour
     }
     public void NewGame()
     {
-        SceneManager.LoadScene("lvl_1");
+        SceneManager.LoadScene("facil lvl_1");
     }
     public void ExitGame()
     {
