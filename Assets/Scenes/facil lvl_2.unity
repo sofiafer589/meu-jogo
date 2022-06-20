@@ -250,6 +250,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1338704156}
     m_Modifications:
+    - target: {fileID: 1033247716521968682, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: facil lvl_3
+      objectReference: {fileID: 0}
     - target: {fileID: 1669563490187456564, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_Name
       value: Controls
@@ -264,7 +268,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1669563490187456567, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1669563490187456567, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_AnchorMax.x
@@ -337,6 +341,10 @@ PrefabInstance:
     - target: {fileID: 1669563490187456567, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019866382028215675, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: facil lvl_1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
@@ -1553,8 +1561,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1928393092}
   - {fileID: 364164796}
+  - {fileID: 1928393092}
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3302,7 +3310,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9157223133576581448, guid: 757e6522f58999640a52918361968b02, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9157223133576581448, guid: 757e6522f58999640a52918361968b02, type: 3}
       propertyPath: m_AnchorMax.x

@@ -839,6 +839,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1932966578}
     m_Modifications:
+    - target: {fileID: 1033247716521968682, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: dificil lvl_7
+      objectReference: {fileID: 0}
     - target: {fileID: 1669563490187456564, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_Name
       value: Controls
@@ -926,6 +930,10 @@ PrefabInstance:
     - target: {fileID: 1669563490187456567, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019866382028215675, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: dificil lvl_5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
@@ -1513,7 +1521,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5924478216552987412, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: lvlName
-      value: dificil lvl_5
+      value: dificil lvl_7
       objectReference: {fileID: 0}
     - target: {fileID: 5924478216552987624, guid: 7e390f5794040894dabb39713975dcf3, type: 3}
       propertyPath: m_SortingOrder

@@ -1352,6 +1352,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 26746570}
     m_Modifications:
+    - target: {fileID: 1033247716521968682, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: dificil lvl_3
+      objectReference: {fileID: 0}
     - target: {fileID: 1669563490187456564, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_Name
       value: Controls
@@ -1439,6 +1443,10 @@ PrefabInstance:
     - target: {fileID: 1669563490187456567, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019866382028215675, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: lvlName
+      value: dificil lvl_1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
