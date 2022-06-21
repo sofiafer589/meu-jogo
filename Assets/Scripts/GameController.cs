@@ -44,5 +44,9 @@ public class GameController : MonoBehaviour
     {
         Application.Quit();
     }
+    public void Menu()
+    {
+        SceneManager.LoadScene("main");
+    }
 
 }
