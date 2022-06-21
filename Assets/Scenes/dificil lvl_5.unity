@@ -2476,8 +2476,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d61dd00629656394996b9e1b0f82af2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  moveTime: 7
+  speed: 1.5
+  moveTime: 4.5
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -5694,8 +5694,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d61dd00629656394996b9e1b0f82af2e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 1
-  moveTime: 7
+  speed: 1.5
+  moveTime: 4.5
 --- !u!1001 &1865640053
 PrefabInstance:
   m_ObjectHideFlags: 0

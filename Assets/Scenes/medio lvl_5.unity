@@ -388,6 +388,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Falling Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 1981459816923694927, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981459816923694930, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
+      propertyPath: m_SortingOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1981459816923694932, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
+      propertyPath: fallingTime
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -443,7 +455,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 59675751637710760, guid: 81372ac221fce8e478383c2bb54dbb5c, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 59675751637710760, guid: 81372ac221fce8e478383c2bb54dbb5c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2866,9 +2878,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: Falling Platform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1981459816923694927, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1981459816923694933, guid: 78af0774d262aae4a866cef3a7be0869, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4350,39 +4366,36 @@ PrefabInstance:
       propertyPath: JumpForce
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4135101683000960638, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: doubleJump
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395399986848619142, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Radius
+      value: 0.08969585
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395399986848619142, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0038492554
+      objectReference: {fileID: 0}
+    - target: {fileID: 6395399986848619142, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.07056423
+      objectReference: {fileID: 0}
+    - target: {fileID: 8994632142405423585, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Size.y
+      value: 0.14839566
+      objectReference: {fileID: 0}
+    - target: {fileID: 8994632142405423585, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8994632142405423585, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.014592979
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
---- !u!1 &1928058965 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4135101683000960629, guid: 6fb5700b679d8c54192e2c854fec9426, type: 3}
-  m_PrefabInstance: {fileID: 1928058964}
-  m_PrefabAsset: {fileID: 0}
---- !u!61 &1928058966
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1928058965}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0.0042198636, y: -0.034830824}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.32, y: 0.32}
-    newSize: {x: 0.32, y: 0.32}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.21703565, y: 0.25033835}
-  m_EdgeRadius: 0
 --- !u!1 &1928536430
 GameObject:
   m_ObjectHideFlags: 0
