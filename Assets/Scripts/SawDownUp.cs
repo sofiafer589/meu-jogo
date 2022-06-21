@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Platforms : MonoBehaviour
+public class SawDownUp : MonoBehaviour
 {
     public float speed;
     public float moveTime;
@@ -15,11 +15,11 @@ public class Platforms : MonoBehaviour
     {
         if(dirUp)
         {
-            transform.Translate(Vector2.up * speed * Time.deltaTime);
+            transform.Translate(Vector2.down * speed * Time.deltaTime);
         }
         else
         {
-            transform.Translate(Vector2.down * speed * Time.deltaTime);
+            transform.Translate(Vector2.up * speed * Time.deltaTime);
         }
 
         timer += Time.deltaTime;
