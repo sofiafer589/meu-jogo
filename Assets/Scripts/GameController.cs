@@ -16,6 +16,10 @@ public class GameController : MonoBehaviour
 
     public string lvlName;
 
+    public string left;
+
+    public string right;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -48,5 +52,12 @@ public class GameController : MonoBehaviour
     {
         SceneManager.LoadScene("main");
     }
-
+    public void Left()
+    {
+        SceneManager.LoadScene(left);
+    }
+    public void Right()
+    {
+        SceneManager.LoadScene(right);
+    }
 }

@@ -2714,6 +2714,8 @@ MonoBehaviour:
   scoreText: {fileID: 0}
   gameOver: {fileID: 163402638}
   lvlName: 
+  left: 
+  right: 
 --- !u!232 &1188174111
 DistanceJoint2D:
   m_ObjectHideFlags: 0
@@ -4468,6 +4470,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1390066542}
     m_Modifications:
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1369142607}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1033247716521968682, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: lvlName
       value: dificil lvl_2
@@ -4564,6 +4594,22 @@ PrefabInstance:
       propertyPath: lvlName
       value: medio lvl_6
       objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1369142607}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
 --- !u!1001 &2850447024951712174
@@ -4576,6 +4622,14 @@ PrefabInstance:
     - target: {fileID: 2850447026285161696, guid: 0aadfd25898be2a46b7382fa9a915750, type: 3}
       propertyPath: m_Name
       value: Game Controller
+      objectReference: {fileID: 0}
+    - target: {fileID: 2850447026285161697, guid: 0aadfd25898be2a46b7382fa9a915750, type: 3}
+      propertyPath: left
+      value: medio lvl_6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2850447026285161697, guid: 0aadfd25898be2a46b7382fa9a915750, type: 3}
+      propertyPath: right
+      value: dificil lvl_2
       objectReference: {fileID: 0}
     - target: {fileID: 2850447026285161697, guid: 0aadfd25898be2a46b7382fa9a915750, type: 3}
       propertyPath: gameOver
