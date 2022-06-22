@@ -130,6 +130,34 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1390066542}
     m_Modifications:
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1369142607}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Right
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 897062519639598827, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1033247716521968682, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: lvlName
       value: dificil lvl_9
@@ -225,6 +253,22 @@ PrefabInstance:
     - target: {fileID: 3019866382028215675, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
       propertyPath: lvlName
       value: dificil lvl_7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1369142607}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
@@ -3536,6 +3580,8 @@ MonoBehaviour:
   scoreText: {fileID: 0}
   gameOver: {fileID: 163402638}
   lvlName: 
+  left: dificil lvl_7
+  right: dificil lvl_9
 --- !u!4 &1369142608
 Transform:
   m_ObjectHideFlags: 0

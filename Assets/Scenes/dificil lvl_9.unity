@@ -2077,6 +2077,22 @@ PrefabInstance:
       propertyPath: lvlName
       value: dificil lvl_8
       objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1369142607}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Left
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: GameController, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 5928389537915281355, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed6ecd296c0a00c4f8e0fc352c2d28cf, type: 3}
 --- !u!224 &447835948 stripped
@@ -3780,6 +3796,8 @@ MonoBehaviour:
   scoreText: {fileID: 0}
   gameOver: {fileID: 163402638}
   lvlName: 
+  left: dificil lvl_8
+  right: 
 --- !u!4 &1369142608
 Transform:
   m_ObjectHideFlags: 0
